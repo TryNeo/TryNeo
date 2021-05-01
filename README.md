@@ -9,5 +9,5 @@
   </a>
 </p>
 <a href="#tryneo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=tryneo&show_icons=true&count_private=true&include_all_commits=true" alt="tryneo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tryneo&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="tryneo"/>
 </a>
