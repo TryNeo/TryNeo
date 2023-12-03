@@ -9,7 +9,7 @@ class TechnologistSoftwareDevelopment:
         self.role = "software development technologist"
         self.language_spoken = ["es_ES"]
         self.work = ['Credimatic']
-        self.hobbies = ['Gym','Games','Memes']
+        self.hobbies = ['Games','Memes']
         self.age = 23
 
     def say_hi(self):
