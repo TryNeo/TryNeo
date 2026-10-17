@@ -8,9 +8,9 @@ class TechnologistSoftwareDevelopment:
         self.name = "Josue Lopez"
         self.role = "software development technologist"
         self.language_spoken = ["es_ES"]
-        self.work = ['Credimatic']
+        self.work = ['NULL']
         self.hobbies = ['Games','Memes']
-        self.age = 23
+        self.age = 26
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
